@@ -16,7 +16,8 @@ Install requirements
 
 
 ## Screenshots
+![youtube-downloaderr](https://github.com/Tejas911/YouTube-Downloaderr/assets/97599851/b6a10268-ac7d-4f95-95b5-9505b7f3a8b7)
 
-![Uploading youtube-downloaderr.png…]()
+
 
 
