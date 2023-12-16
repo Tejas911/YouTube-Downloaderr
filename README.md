@@ -5,15 +5,6 @@ YouTube-Downloaderr is a versatile and user-friendly software designed for downl
 
 
 
-
-## Requirements 
-
-Install requirements 
-
-```bash
-  pip install -r requirements.txt
-```
-
 ## Run Locally
 
 Clone the project
@@ -22,6 +13,13 @@ Clone the project
   https://github.com/Tejas911/YouTube-Downloaderr.git
 ```
 
+## Requirements 
+
+Install requirements 
+
+```bash
+  pip install -r requirements.txt
+```
 #### Open Jupyter Notebook:
 Launch Jupyter Notebook using the following command:
 
